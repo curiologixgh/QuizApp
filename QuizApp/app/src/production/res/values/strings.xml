@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QuizApp Pro</string>
+    <string name="flavour">Production</string>
+</resources>

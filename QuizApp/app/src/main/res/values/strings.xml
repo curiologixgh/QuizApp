@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <!--<string name="production_flavor">production</string>-->
+    <!--<string name="production">Production</string>-->
+    <!--<string name="qa">QA</string>-->
+    <string name="you_are_on_the_break">You are on the break</string>
+    <string name="time_left">Time left: </string>
+</resources>
